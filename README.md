@@ -1,0 +1,2 @@
+# mecab_samples
+MeCabのサンプル
