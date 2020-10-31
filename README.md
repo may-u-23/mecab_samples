@@ -4,7 +4,7 @@
 - MeCabのサンプルスクリプト
 - 入力された文章を形態素解析する
 
-![mecab-python3_sample](https://user-images.githubusercontent.com/56919784/97781324-de7e5900-1bcd-11eb-8191-3ed57d757896.gif)
+![mecab-python3_sample](https://user-images.githubusercontent.com/56919784/97726975-2b512980-1b13-11eb-8a0d-056da11da3f2.gif)
 
 ```
 ❯ ./mecab-python3_sample.py
