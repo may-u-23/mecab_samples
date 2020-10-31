@@ -35,13 +35,13 @@
 
 # 動作確認環境
 ```
-❯ sw_vers
 ProductName:	Mac OS X
 ProductVersion:	10.15.6
 BuildVersion:	19G73
 
-❯ mecab -v
-mecab of 0.996
+mecab: stable 0.996 (bottled)
+mecab-ipadic: stable 2.7.0-20070801 (bottled)
+mecab-python3: 1.0.2
 ```
 
 # 事前作業
